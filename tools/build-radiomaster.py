@@ -13,21 +13,25 @@ boards = {
         "PCB": "X10",
         "PCBREV": "TX16S",
         "DEFAULT_MODE": "1",
+        "USB_SERIAL": "YES",
     },
     "TX16S_2": {
         "PCB": "X10",
         "PCBREV": "TX16S",
         "DEFAULT_MODE": "2",
+        "USB_SERIAL": "YES",
     },
     "TX12_1": {
         "PCB": "X7",
         "PCBREV": "TX12",
         "DEFAULT_MODE": "1",
+        "USB_SERIAL": "YES",
     },
     "TX12_2": {
         "PCB": "X7",
         "PCBREV": "TX12",
         "DEFAULT_MODE": "2",
+        "USB_SERIAL": "YES",
     }
 }
 
